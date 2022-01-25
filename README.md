@@ -12,7 +12,7 @@ To start the game, simply hit the SPACEBAR key. And to restart the game, hit the
 
 To control the Gunner, use the A and D keys to move left and right. The SPACEBAR can also be used to jump up and down. 
 
-CREDIT FOR THE FOLLOWING ASSETS: 
-Gunner - https://secrethideout.itch.io/team-wars-platformer-battle
-Background - https://ansimuz.itch.io/industrial-parallax-background
+CREDIT FOR THE FOLLOWING ASSETS: <br />
+Gunner - https://secrethideout.itch.io/team-wars-platformer-battle<br />
+Background - https://ansimuz.itch.io/industrial-parallax-background<br />
 Aliens - https://omniclause.itch.io/jelly?download
